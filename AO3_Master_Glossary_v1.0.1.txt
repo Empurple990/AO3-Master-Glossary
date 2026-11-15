@@ -1,0 +1,171 @@
+版本号：1.0.1
+维护者：My Master Glossary
+更新时间：2026-11-16
+// AO3 Translator 跨作品总术语表
+// UTF-8 纯文本；人名词条区区分大小写。
+// 本版新增用户提供的 Persona 3 / Persona 5 人名、别名及姓名顺序变体。
+// 为减少误替换，不将 Ren、Joker、Crow、Fox 等单独简称设为全局自动替换。
+词条
+// =================================
+// Persona 3 / 女神异闻录3
+// Persona 3 Portable / 女神异闻录3 携带版
+// =================================
+// P3 主角姓名及 P3P 女主角名称按用户提供的版本/称呼收录。
+Yukari Takeba：岳羽由加莉
+Takeba Yukari：岳羽由加莉
+Junpei Iori：伊织顺平
+Iori Junpei：伊织顺平
+Akihiko Sanada：真田明彦
+Sanada Akihiko：真田明彦
+Mitsuru Kirijo：桐条美鹤
+Kirijo Mitsuru：桐条美鹤
+Fuuka Yamagishi：山岸风花
+Yamagishi Fuuka：山岸风花
+Aigis：埃癸斯
+Aegis：埃癸斯
+Koromaru：虎狼丸
+Ken Amada：天田乾
+Amada Ken：天田乾
+Shinjiro Aragaki：荒垣真次郎
+Aragaki Shinjiro：荒垣真次郎
+Aragaki Shinjilo：荒垣真次郎
+Takaya：隆哉
+Sakaki Takaya：神贵隆哉
+Takaya Sakaki：神贵隆哉
+Chidori Yoshino：吉野千鸟
+Yoshino Chidori：吉野千鸟
+Elizabeth：伊莉莎白
+Theodore：西奥多
+Mochizuki Ryoji：望月绫时
+Ryoji Mochizuki：望月绫时
+Shirato Jin：白户壬
+Jin Shirato：白户壬
+Ikutsuki Shuji：几月修司
+Shuji Ikutsuki：几月修司
+Yuki Makoto：结城理
+Makoto Yuki：结城理
+Arisato Minato：有理凑
+Minato Arisato：有理凑
+Shiomi Sakuya：汐见朔也
+Sakuya Shiomi：汐见朔也
+Arisato Minako：有理美奈子
+Minako Arisato：有理美奈子
+Shiomi Kotone：汐见琴音
+Kotone Shiomi：汐见琴音
+// =================================
+// Persona 4 / 女神异闻录4 黄金版
+// =================================
+// P4 主角姓名/昵称可能随动画、游戏及同人设定变化；仅收录完整姓名。
+Yosuke Hanamura：花村阳介
+Hanamura Yosuke：花村阳介
+Chie Satonaka：里中千枝
+Satonaka Chie：里中千枝
+Yukiko Amagi：天城雪子
+Amagi Yukiko：天城雪子
+Teddie：小熊
+Kuma：小熊
+Kanji Tatsumi：巽完二
+Tatsumi Kanji：巽完二
+Rise Kujikawa：久慈川理世
+Kujikawa Rise：久慈川理世
+Naoto Shirogane：白钟直斗
+Shirogane Naoto：白钟直斗
+Marie：玛丽
+Tohru Adachi：足立透
+Adachi Tohru：足立透
+Ryotaro Dojima：堂岛辽太郎
+Dojima Ryotaro：堂岛辽太郎
+Nanako Dojima：堂岛菜菜子
+Dojima Nanako：堂岛菜菜子
+Margaret：玛格丽特
+// =================================
+// Persona 5 / 女神异闻录5 皇家版
+// =================================
+Ren Amamiya：雨宫莲
+Amamiya Ren：雨宫莲
+Ryuji Sakamoto：坂本龙司
+Sakamoto Ryuji：坂本龙司
+Takamaki Ann：高卷杏
+Ann Takamaki：高卷杏
+Niijima Makoto：新岛真
+Makoto Niijima：新岛真
+Niijima Sae：新岛冴
+Sae Niijima：新岛冴
+Kitagawa Yusuke：喜多川祐介
+Yusuke Kitagawa：喜多川祐介
+Okumaru Haru：奥村春
+Okumura Haru：奥村春
+Haru Okumura：奥村春
+Sakura Futaba：佐仓双叶
+Sakura futaba：佐仓双叶
+Futaba Sakura：佐仓双叶
+Sakura Sojiro：佐仓惣治郎
+Sakura sojiro：佐仓惣治郎
+Sojiro Sakura：佐仓惣治郎
+Isshiki Wakaba：一色若叶
+Wakaba Isshiki：一色若叶
+Shido Masayoshi：狮童正义
+Masayoshi Shido：狮童正义
+Mishima Yuuki：三岛由辉
+Yuuki Mishima：三岛由辉
+Maruki Takuto：丸喜拓人
+Takuto Maruki：丸喜拓人
+Togo Hifumi：东乡一二三
+Hifumi Togo：东乡一二三
+Yoshizawa Sumire：芳泽堇
+Sumire Yoshizawa：芳泽堇
+Yoshizawa Kasumi：芳泽霞
+Kasumi Yoshizawa：芳泽霞
+Igor：伊格尔
+Lavenza：拉雯妲
+Yaldabaoth：亚尔达拜特
+Yaldabaot：亚尔达拜特
+Ichiko Ohya：大宅一子
+Ohya Ichiko：大宅一子
+Shiho Suzui：铃井志帆
+Suzui Shiho：铃井志帆
+Kawakami Sadayo：川上贞代
+Sadayo Kawakami：川上贞代
+Takemi Tae：武见妙
+Tae Takemi：武见妙
+// Yoshida Honoka：吉田寅之助（原始输入；与角色罗马字姓名不符，暂不启用）
+Yoshida Toranosuke：吉田寅之助
+Toranosuke Yoshida：吉田寅之助
+// =================================
+// Ace Attorney Trilogy / 逆转裁判123
+// =================================
+Phoenix Wright：成步堂龙一
+Maya Fey：绫里真宵
+Mia Fey：绫里千寻
+Miles Edgeworth：御剑怜侍
+Larry Butz：矢张政志
+Dick Gumshoe：糸锯圭介
+Winston Payne：亚内武文
+Frank Sahwit：山野星雄
+April May：松竹梅世
+Redd White：小中大
+Marvin Grossberg：星影宇宙之介
+Misty Fey：绫里舞子
+Pearl Fey：绫里春美
+Manfred von Karma：狩魔豪
+Franziska von Karma：狩魔冥
+Will Powers：荷星三郎
+Dee Vasquez：芝九藏虎之助
+Lotta Hart：大泽木夏美
+Godot：戈德
+// =================================
+// 昵称与代号备忘（注释，不执行替换）
+// =================================
+// 以下简称可能存在语境歧义，暂不进行全局替换。
+// Persona 3：主人公、P3P女主角的简称及代号请按文章设定判断。
+// Persona 4：Yu、Senpai、番长等。
+// Persona 5：Joker、Skull、Panther、Mona、Fox、Queen、Oracle、Noir、Crow、Violet。
+// Ace Attorney：Nick、Nick W、Edgey、Mr. Edgeworth、Gumshoe等。
+通用词条
+Persona：人格面具
+Persona User：人格面具操控者
+Shadow：暗影
+Velvet Room：天鹅绒房间
+// 暂不设置禁翻词条。
+// 注意：词条区区分大小写；如文章出现其他大小写形式，需要补充对应写法。
+// 对于同一角色的不同译名，请优先保留一个你最终确认的中文标准译名。
