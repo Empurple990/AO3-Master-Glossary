@@ -83,6 +83,8 @@ Margaret：玛格丽特
 // =================================
 Ren Amamiya：雨宫莲
 Amamiya Ren：雨宫莲
+Akechi Goro：明智吾郎
+Goro Akechi: 明智吾郎
 Ryuji Sakamoto：坂本龙司
 Sakamoto Ryuji：坂本龙司
 Takamaki Ann：高卷杏
