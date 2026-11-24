@@ -172,7 +172,6 @@ Ren Amamiya：雨宫莲
 Amamiya Ren：雨宫莲
 Ren：莲
 Amamiya：雨宫
-Joker: Joker
 
 Kurusu Akira：来栖晓
 Akira Kurusu：来栖晓
@@ -183,27 +182,23 @@ Akechi Goro：明智吾郎
 Goro Akechi：明智吾郎
 Akechi：明智
 Goro：吾郎
-Crow: Crow
 
-Morgana：mona
+Morgana：摩尔加纳
 
 Ryuji Sakamoto：坂本龙司
 Sakamoto Ryuji：坂本龙司
 Ryuji：龙司
 Sakamoto：坂本
-Skull：Skull
 
 Takamaki Ann：高卷杏
 Ann Takamaki：高卷杏
 Ann：杏
 Takamaki：高卷
-Panther: Panther
 
 Niijima Makoto：新岛真
 Makoto Niijima：新岛真
 Makoto：真
 Niijima：新岛
-Queen: Queen
 
 Niijima Sae：新岛冴
 Sae Niijima：新岛冴
@@ -214,21 +209,18 @@ Kitagawa Yusuke：喜多川祐介
 Yusuke Kitagawa：喜多川祐介
 Yusuke：祐介
 Kitagawa：喜多川
-Fox: Fox
 
 Okumaru Haru：奥村春
 Okumura Haru：奥村春
 Haru Okumura：奥村春
 Haru：春
 Okumura：奥村
-Noir: Noir
 
 Sakura Futaba：佐仓双叶
 Sakura futaba：佐仓双叶
 Futaba Sakura：佐仓双叶
 Futaba：双叶
 Sakura：佐仓
-Navi: Navi
 
 Sakura Sojiro：佐仓惣治郎
 Sakura sojiro：佐仓惣治郎
@@ -301,6 +293,16 @@ Yoshida Toranosuke：吉田寅之助
 Toranosuke Yoshida：吉田寅之助
 Toranosuke：寅之助
 Yoshida：吉田
+
+Caroline：卡萝莉娜
+Jose：约瑟
+José：约瑟
+Justine：芮斯汀娜
+Kamoshida Suguru：鸭志田 卓
+Kaneshiro Junya：金城 润矢
+Okumura Kunikazu：奥村 邦和
+Ushimaru：牛丸
+Wuhen：无边
 
 // =================================
 // Ace Attorney Trilogy / 逆转裁判123
@@ -394,6 +396,36 @@ Persona：人格面具
 Persona User：人格面具操控者
 Shadow：暗影
 Velvet Room：天鹅绒房间
-// 暂不设置禁翻词条。
+Akihabara：秋叶原
+Aoyamaitchome：苍山一丁目
+Ginza：银座
+Kosei：洸星
+Kanda：神田
+Kichijoji：吉祥寺
+Mementos：印象空间
+Shibuya：涩谷
+Shinagawa：品川
+Shinjuku：新宿
+Shujin Academy：秀尽学园
+Shujin：秀尽
+Yongenjaya：四轩茶屋
+calling card：预告函
+cognitive psience：认知诃学
+cognitive world：认知世界
+featherman：翔羽侠
+phantom thieves：怪盗团
+
+禁翻词条
+Crow
+Joker
+Mona
+Navi
+Noir
+Oracle
+Panther
+Queen
+Skull
+Violet
+
 // 注意：词条区区分大小写；如文章出现其他大小写形式，需要补充对应写法。
 // 对于同一角色的不同译名，请优先保留一个你最终确认的中文标准译名。
