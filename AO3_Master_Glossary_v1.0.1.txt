@@ -172,6 +172,7 @@ Ren Amamiya：雨宫莲
 Amamiya Ren：雨宫莲
 Ren：莲
 Amamiya：雨宫
+Joker: Joker
 
 Kurusu Akira：来栖晓
 Akira Kurusu：来栖晓
@@ -182,21 +183,25 @@ Akechi Goro：明智吾郎
 Goro Akechi：明智吾郎
 Akechi：明智
 Goro：吾郎
+Crow: Crow
 
 Ryuji Sakamoto：坂本龙司
 Sakamoto Ryuji：坂本龙司
 Ryuji：龙司
 Sakamoto：坂本
+Skull：Skull
 
 Takamaki Ann：高卷杏
 Ann Takamaki：高卷杏
 Ann：杏
 Takamaki：高卷
+Panther: Panther
 
 Niijima Makoto：新岛真
 Makoto Niijima：新岛真
 Makoto：真
 Niijima：新岛
+Queen: Queen
 
 Niijima Sae：新岛冴
 Sae Niijima：新岛冴
@@ -207,18 +212,21 @@ Kitagawa Yusuke：喜多川祐介
 Yusuke Kitagawa：喜多川祐介
 Yusuke：祐介
 Kitagawa：喜多川
+Fox: Fox
 
 Okumaru Haru：奥村春
 Okumura Haru：奥村春
 Haru Okumura：奥村春
 Haru：春
 Okumura：奥村
+Noir: Noir
 
 Sakura Futaba：佐仓双叶
 Sakura futaba：佐仓双叶
 Futaba Sakura：佐仓双叶
 Futaba：双叶
 Sakura：佐仓
+Navi: Navi
 
 Sakura Sojiro：佐仓惣治郎
 Sakura sojiro：佐仓惣治郎
